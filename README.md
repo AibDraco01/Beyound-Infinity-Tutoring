@@ -62,7 +62,7 @@
 </head>
 <body>
     <header>
-        <h1>Beyond Infinity Tutoring with Arjina</h1>
+        <h1>Beyond Infinity </h1>
         <nav>
             <a href="#about">About</a>
             <a href="#services">Services</a>
