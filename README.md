@@ -1,5 +1,5 @@
 # Beyound-Infinity-Tutoring
-<!DOCTYPE html>
+<Hello!!>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -65,7 +65,7 @@
 
     <section id="contact">
         <h2>Contact Me</h2>
-        <p>Email: <a href="mailto:arjinaislam01@gmail.com">your-email@example.com</a></p>
+        <p>Email: <a href="mailto:arjinaislam01@gmail.com">arjinaislam01@gmail.com</a></p>
         <p>Phone: (267) 471-4593</p>
     </section>
 
